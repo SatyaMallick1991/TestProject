@@ -8,7 +8,7 @@ public class App {
 
 	public String Sample()
 	{
-		return "Sample";
+		return "Sam1ple";
 	}
 	
 	public static void main(String[] args) {
